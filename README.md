@@ -17,7 +17,7 @@ The system uses **Structures**, **Arrays**, and **Graphs** (with Dijkstra’s Al
 ### 🧠 Data Structures Used
 1. **Structures** – For representing `Bin` and `Truck`.
 2. **Arrays** – For storing bins, trucks, and city map.
-3. **Graph (2D Array)** – To represent city locations and roads.
+3. **Graph (2D Array)** – To represent city locations and roads..
 
 ---
 

@@ -9,7 +9,7 @@ The system uses **Structures**, **Arrays**, and **Graphs** (with Dijkstra’s Al
 ### ⚙️ Features
 - Takes city map as an adjacency matrix.
 - Finds the nearest truck using Dijkstra’s algorithm..
-- Automatically assigns trucks to full bins (≥80%).
+- Automatically assigns trucks to full bins (≥80%)..
 - Displays shortest route distances 
 
 ---

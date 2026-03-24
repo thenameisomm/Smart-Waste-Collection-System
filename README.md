@@ -2,7 +2,7 @@
 
 ### 🧩 Description
 A simple DSA mini-project built in **C++** to optimize garbage collection in urban areas.
-The system uses **Structures**, **Arrays**, and **Graphs** (with Dijkstra’s Algorithm) to assign the nearest garbage truck to each full bin.
+The system uses **Structures**, **Arrays**, and **Graphs** (with Dijkstra’s Algorithm) to assign the nearest garbage truck to each full bin..
 
 ---
 
